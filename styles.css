@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    font-family: "Merriweather";
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+
+nav ul {
+    font-family: "Work Sans";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+nav li {
+    font-family: "Work Sans";
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    font-family: "Work Sans";
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #555;
+
+}
+
+.about {
+    font-family: "Merriweather";
+}
+
+.about:active {
+    color: green;
+}
+
+.highlight {
+    font-family: "Work Sans";
+    color: #ff4500;
+}
+
+.skills {
+    font-family: "Merriweather";
+}
+
+.skills:hover {
+    color: black;
+}
+
+
+#projects {
+    font-family: "Work Sans";
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.project {
+    font-family: "Work Sans";
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/* challenge 
+
+-add appropriate styles to the projects section
+-add fonts tp our page (link)
+
+*/
