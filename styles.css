@@ -74,7 +74,23 @@ nav a:hover {
     margin-bottom: 10px;
 }
 
+footer {
+    background-color: #333;
+}
 
+.creator {
+    display: inline-block;
+    font-family: "Merriweather";
+    color: aqua;
+    margin-right: 20px;
+}
+
+.email {
+    display: inline-block;
+    align-self: flex-end;
+    font-family: "Work Sans";
+    list-style-type: none;
+}
 
 /* challenge 
 
